@@ -10,3 +10,4 @@ Create a simple reminder application. A person has to be reminded on the below a
 Go to library
 Dinner
 Go to sleep.
+![Screenshot (131)](https://github.com/20BCE11035/simple-reminder-application/assets/153983455/b5981a0e-1e3b-499e-ace4-070abc51dfe1)
